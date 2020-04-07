@@ -1,0 +1,62 @@
+#back {
+    background-color:#E8F5FF
+}
+
+#hello {
+    background-image: url(https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile4.uf.tistory.com%2Fimage%2F232F5B40583C93D723BAA7);
+    background-size: cover;
+    text-shadow: white;
+    font-size: 400%;
+    color: white;
+    text-align:center;
+    padding: 9%;
+    font-family: serif;
+}
+
+/* #btn1 {
+   
+}
+#btn2 {
+   
+}
+#btn3 {
+   
+}
+#btn4 {
+   
+}
+#btn {
+   
+} */
+
+#btn_group button{
+    font-size: 150%;
+    border: 3px skyblue;
+    background-color: rgba(0,0,0,0);
+    color:skyblue;
+    
+    padding: 4%;
+    font-weight: 900;
+}
+
+#text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:  20px;
+    text-align: center;
+    color: dimgray;
+    font-weight: 900;
+   
+}
+
+#hi {
+    text-decoration: underline;
+    text-underline-position: under;
+}
+
+#last {
+    color: black;
+    font-weight: 900;
+    text-align: center;
+    font-size:  13px;
+    text-decoration: underline;
+}
