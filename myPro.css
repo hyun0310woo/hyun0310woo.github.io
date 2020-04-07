@@ -1,9 +1,10 @@
 #back {
-    background-color:#E8F5FF
+    background-image: url(https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile28.uf.tistory.com%2Fimage%2F9953E53E5BF4169D2AF828);
+    
 }
 
 #hello {
-    background-image: url(https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile4.uf.tistory.com%2Fimage%2F232F5B40583C93D723BAA7);
+    background-image: url(https://t1.daumcdn.net/cfile/tistory/247A8E44583C93EE27);
     background-size: cover;
     text-shadow: white;
     font-size: 400%;
@@ -13,37 +14,25 @@
     font-family: serif;
 }
 
-/* #btn1 {
-   
-}
-#btn2 {
-   
-}
-#btn3 {
-   
-}
-#btn4 {
-   
-}
-#btn {
-   
-} */
-
 #btn_group button{
+    margin-left: 85px;
+    margin-right: auto;
+    text-align: center;
     font-size: 150%;
-    border: 3px skyblue;
+    border: 3px #3c3c3c;
     background-color: rgba(0,0,0,0);
-    color:skyblue;
-    
-    padding: 4%;
+    color : #90AFFF;
+    padding: 5%;
     font-weight: 900;
+    text-decoration: underline;
+    text-underline-position: under;
 }
 
 #text {
     font-family: Arial, Helvetica, sans-serif;
     font-size:  20px;
     text-align: center;
-    color: dimgray;
+    color:#E8F5FF;
     font-weight: 900;
    
 }
@@ -54,9 +43,9 @@
 }
 
 #last {
-    color: black;
+    color: #E8F5FF;
     font-weight: 900;
     text-align: center;
-    font-size:  13px;
+    font-size:  15px;
     text-decoration: underline;
 }
